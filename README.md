@@ -1,1 +1,3 @@
-# projekt-kapusta
+Projekt ma na celu przeprowadzenie testów serwisu internetowego https://kapusta-qa.netlify.app/, który służy do zarządzania domowym budżetem. Platforma ta umożliwia użytkownikom wprowadzanie przychodów i wydatków oraz tworzenie raportów przedstawiających podsumowanie finansowe w określonym przedziale czasowym, z dodatkowym podziałem na kategorie.
+
+Testy dotyczące strony Kapusta skoncentrują się na weryfikacji poprawności działania jej różnych funkcji oraz ocenie wydajności. W ramach przeprowadzonych testów zostaną zbadane wszystkie dostępne opcje, takie jak dodawanie i edytowanie przychodów i wydatków, generowanie raportów, przeglądanie historii transakcji oraz zarządzanie kategoriami.
